@@ -1,0 +1,1 @@
+Aplikacja do przewidywania czasu ukończenia półmaratonu na podstawie danych użytkownika (płeć, wiek, czas na 5 km). Wykorzystuje wytrenowany model regresyjny (Random Forest) oparty na danych z Półmaratonu Wrocławskiego 2023–2024.
