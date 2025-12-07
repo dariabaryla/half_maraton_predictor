@@ -1,1 +1,21 @@
+# Środowisko Pythona
 .env
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System
+.DS_Store
+*.log
+
+# IDE
+.vscode/
+
+.DS_Store
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
